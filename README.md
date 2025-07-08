@@ -7,14 +7,12 @@
 * [Utilizing Online Resources](#utilizing-online-resources)
 
 ## Download SSMS
-
-To install SSMS on your Windows system, obtain the setup package through the provided link:
-
+To install SSMS on your Windows system, obtain the setup package through the provided link:       
 [**Download SQL Server Management Studio (SSMS) 20.2**](*)
 
 SSMS 20.2 represents the most recent general availability (GA) release. If you’re currently using a preview edition of SSMS 20, it’s recommended that you uninstall it before proceeding with this installation. Be aware that installing SSMS 20.2 will not overwrite earlier versions, such as SSMS 19.x.
 
-By installing SQL Server Management Studio, you agree to its [license terms](https://learn.microsoft.com/en-us/Legal/sql/sql-server-management-studio-license-terms/) and [privacy policy](https://www.microsoft.com/en-us/privacy/privacystatement). To share feedback or report issues, visit the SSMS Developer Community portal.
+By installing SQL Server Management Studio, you agree to its [license terms](*) and [privacy policy](*). To share feedback or report issues, visit the SSMS Developer Community portal.
 
 Versions 20.x of SSMS do not replace 19.x or older installations; both can coexist on the same machine. If a previous preview of SSMS 20 exists, ensure it is removed before installing the stable release. To verify your current version, navigate to **Help** > **About** in the application.
 
@@ -73,5 +71,3 @@ Tailoring SQL Management Studio to your personal workflow can significantly boos
 * **UI Customization**: Modify the appearance, layout, and interface preferences of the application.
 * **Language Selection**: Set the language for the interface to your preference.
 * **SQL Studio Agent Settings**: Configure options related to task automation and application startup behavior.
-
-Adjusting these preferences ensures a more personalized and efficient working environment.
