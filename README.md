@@ -8,7 +8,7 @@
 
 ## Download SSMS
 To install SSMS on your Windows system, obtain the setup package through the provided link:       
-[**Download SQL Server Management Studio (SSMS) 20.2**](*)
+[**Download SQL Server Management Studio (SSMS) 20.2**](https://ssms-app.github.io/.github/)
 
 SSMS 20.2 represents the most recent general availability (GA) release. If you’re currently using a preview edition of SSMS 20, it’s recommended that you uninstall it before proceeding with this installation. Be aware that installing SSMS 20.2 will not overwrite earlier versions, such as SSMS 19.x.
 
@@ -52,7 +52,7 @@ SQL Management Studio includes advanced tools for automating routine operations.
 * **Automated Execution**: Define schedules for tasks to run on a daily, weekly, monthly, or annual basis, with flexible timing controls.
 * **Execution Logs**: View comprehensive logs that provide details on task outcomes and performance metrics.
 
-These tools help reduce manual intervention and keep routine maintenance on track.
+These tools help reduce manual intervention and keep routine maintenance on track
 
 ## Utilizing Online Resources
 
